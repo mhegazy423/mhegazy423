@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohamed Hegazy
 
-<!--
-**mhegazy423/mhegazy423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 2nd-year Computer Science student at the **Arab Academy for Science, Technology and Maritime Transport (AAST)**, expected to graduate in 2026.
 
-Here are some ideas to get you started:
+💻 I'm passionate about learning new technologies and building cool things with code. I'm currently exploring different areas of computer science and working on improving my skills through coursework and personal projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+
+- **Languages:** C, Java, Python, Assembly (basic), HTML/CSS, JavaScript, PHP, SQL
+- **Technologies:** Web Development, Object-Oriented Programming, Database Structures, Cybersecurity (Intro), Computer Architecture, Digital Logic Design
+- **Tools:** VS Code, Git, MySQL
+
+---
+
+## 📚 Currently Learning
+
+- Data Structures and Algorithms
+- Building a professional portfolio and GitHub presence
+- Real-world project development
+
+---
+
+## 🎯 Fun Fact
+
+🏸 I used to play professional badminton for 14 years and have won several national and international tournaments!
+
+---
+
+## 🌐 Languages
+
+- Arabic (Native)
+- English (Fluent)
+- German (Basic)
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: mhegazy.eg@gmail.com
+
+---
+
+Thanks for visiting my profile! 😊
